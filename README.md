@@ -1,5 +1,6 @@
 ### Hi there 👋
 i'm a fucked up colledge student,currently major in network engineering.
+![](https://github.com/Walkiiiy/Walkiiiy/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Walkiiiy/Walkiiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
