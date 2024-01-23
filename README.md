@@ -1,6 +1,6 @@
 ### Hi there 👋
 * i'm a fucked up colledge student,currently major in network engineering.
-* welcome visit[my blog](http://walkiiiy.top)
+* welcome visit [My Blog](http://walkiiiy.top)
 ![](https://github.com/Walkiiiy/Walkiiiy/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Walkiiiy/Walkiiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
